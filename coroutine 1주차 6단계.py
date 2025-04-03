@@ -73,3 +73,4 @@ if '4'in list1 and'8' in list1:
         list1.remove('8')   
 a =len(list1) 
 print(a)
+print(b)
